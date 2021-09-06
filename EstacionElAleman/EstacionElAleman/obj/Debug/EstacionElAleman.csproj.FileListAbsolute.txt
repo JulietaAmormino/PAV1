@@ -1,0 +1,11 @@
+C:\Users\julie\OneDrive\Escritorio\3erAÑO\PAV1\TP\EstacionElAleman\EstacionElAleman\bin\Debug\EstacionElAleman.exe.config
+C:\Users\julie\OneDrive\Escritorio\3erAÑO\PAV1\TP\EstacionElAleman\EstacionElAleman\bin\Debug\EstacionElAleman.exe
+C:\Users\julie\OneDrive\Escritorio\3erAÑO\PAV1\TP\EstacionElAleman\EstacionElAleman\bin\Debug\EstacionElAleman.pdb
+C:\Users\julie\OneDrive\Escritorio\3erAÑO\PAV1\TP\EstacionElAleman\EstacionElAleman\obj\Debug\EstacionElAleman.csprojAssemblyReference.cache
+C:\Users\julie\OneDrive\Escritorio\3erAÑO\PAV1\TP\EstacionElAleman\EstacionElAleman\obj\Debug\EstacionElAleman.Frm_Escritorio.resources
+C:\Users\julie\OneDrive\Escritorio\3erAÑO\PAV1\TP\EstacionElAleman\EstacionElAleman\obj\Debug\EstacionElAleman.Properties.Resources.resources
+C:\Users\julie\OneDrive\Escritorio\3erAÑO\PAV1\TP\EstacionElAleman\EstacionElAleman\obj\Debug\EstacionElAleman.csproj.GenerateResource.cache
+C:\Users\julie\OneDrive\Escritorio\3erAÑO\PAV1\TP\EstacionElAleman\EstacionElAleman\obj\Debug\EstacionElAleman.csproj.CoreCompileInputs.cache
+C:\Users\julie\OneDrive\Escritorio\3erAÑO\PAV1\TP\EstacionElAleman\EstacionElAleman\obj\Debug\EstacionElAleman.exe
+C:\Users\julie\OneDrive\Escritorio\3erAÑO\PAV1\TP\EstacionElAleman\EstacionElAleman\obj\Debug\EstacionElAleman.pdb
+C:\Users\julie\OneDrive\Escritorio\3erAÑO\PAV1\TP\EstacionElAleman\EstacionElAleman\obj\Debug\EstacionElAleman.Frm_Login.resources
